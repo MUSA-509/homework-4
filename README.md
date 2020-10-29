@@ -1,6 +1,6 @@
 # Homework 4 — Building APIs with Flask
 
-**This is a group assignment. You can choose your group through Google Classroom.**
+**This is a group assignment. You can choose your group through GitHub Classroom.**
 
 Signup for assignment here: <https://classroom.github.com/g/rLRhBW2J>
 
