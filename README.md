@@ -2,6 +2,8 @@
 
 **This is a group assignment. You can choose your group through Google Classroom.**
 
+Signup for assignment here: <https://classroom.github.com/g/rLRhBW2J>
+
 Build three API endpoints for the scenarios listed below. Through the Google Classroom group repository, submit your responses as a Python script that can run as a Flask application and function (local) API. Load all credentials from separate files (e.g., JSON files like we do in class). Make sure that both group members contribute code to the repo.
 
 ## Problems
