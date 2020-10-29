@@ -11,6 +11,7 @@ Build three API endpoints for the scenarios listed below. Through the Google Cla
 ## Problems
 
 1. Build an API endpoint to report nearby covid cases (in Philadelphia) based on an arbitrary address.
+
     a. Use an API call to Mapbox or [Google](https://developers.google.com/maps/documentation/geocoding/) geocoding service
     b. Use the class PostgreSQL database to get Covid tests
     c. Take user input as an API query parameter
@@ -20,9 +21,11 @@ Build three API endpoints for the scenarios listed below. Through the Google Cla
         3. A static map of the area around the address with a [marker](https://docs.mapbox.com/api/maps/#marker) over the address location
         4. Styled HTML outputs so UI is easy to interpret
 2. Build a "how to walk to Meyerson Hall" app
+
     a. Takes an arbitrary (Philadelphia) location as starting point. End point is Meyerson Hall.
     b. Use Mapbox (or Google) Directions API to generate a walking or cycling path
     c. Generate an interactive map to show the path. See demo code from Lecture ([Python templating](https://github.com/MUSA-509/week-9-apis-with-flask/blob/main/app.py#L166-L172) and [HTML template](https://github.com/MUSA-509/week-9-apis-with-flask/blob/main/templates/geojson_map.html))
     d. Print the steps of the route alongside the map similar to what happens in the [Mapbox Directions API Playground](https://docs.mapbox.com/playground/directions/):
       ![](directions-example.png)
+
 3. Create an index endpoint ('/') that links to examples of the two endpoints in problems \#1 and \#2
